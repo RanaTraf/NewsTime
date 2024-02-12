@@ -19,7 +19,7 @@ export const getServerSideProps: GetServerSideProps = async (ctx) => {
 			redirect: {
 				permanent: false,
 				destination: `${
-					`https://www.toprevenuegate.com/u2mnb6p6s?key=39beb203b9382c1e5fc25059ea290413/`
+					`https://deitynosebleed.com/f71cwe2d5z?key=1a6f625d246b304f0d86aa005336ccc8`
 				}`,
 			},
 		};
